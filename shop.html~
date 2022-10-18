@@ -1,0 +1,1012 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>EZCool</title>
+    <meta name="author" content="Erasoft">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="robots" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <link rel="manifest" href="images/favicon.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="images/favicon.pn">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+    <meta name="theme-color" content="#ffffff">
+
+
+    <link rel="stylesheet" href="css/app.min.css">
+    <link rel="stylesheet" href="css/fontawesome.min.css">
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+
+
+        <div class="as-menu-wrapper">
+            <div class="as-menu-area text-center">
+                <button class="as-menu-toggle"><i class="fal fa-times"></i></button>
+                <div class="mobile-logo">
+                    <a href="index.html"><img src="assets/img/logo.png" alt="Mechon" /></a>
+                </div>
+                <div class="as-mobile-menu">
+                    <ul>
+                        <li class="menu-item-has-children">
+                            <a href="index.html">Home</a>
+                            <ul class="sub-menu">
+                                <li>
+                                    <a href="index.html">Home One <span class="new-label">New</span></a>
+                                </li>
+                                <li><a href="index-2.html">Home Two</a></li>
+                                <li><a href="index-3.html">Home Three</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="about.html">About</a></li>
+                        <li class="menu-item-has-children">
+                            <a href="#">Service</a>
+                            <ul class="sub-menu">
+                                <li><a href="service.html">Service</a></li>
+                                <li><a href="service-details.html">Service Details</a></li>
+                            </ul>
+                        </li>
+                        <li class="menu-item-has-children">
+                            <a href="#">Blog</a>
+                            <ul class="sub-menu">
+                                <li><a href="blog.html">Blog</a></li>
+                                <li><a href="blog-details.html">Blog Details</a></li>
+                            </ul>
+                        </li>
+                        <li class="menu-item-has-children mega-menu-wrap">
+                            <a href="#">Pages</a>
+                            <ul class="mega-menu">
+                                <li>
+                                    <a href="shop.html">Pagelist 1</a>
+                                    <ul>
+                                        <li><a href="index.html">Home One</a></li>
+                                        <li><a href="index-2.html">Home Two</a></li>
+                                        <li><a href="index-3.html">Home Three</a></li>
+                                        <li><a href="about.html">About Us</a></li>
+                                        <li><a href="team.html">Team</a></li>
+                                        <li><a href="team-details.html">Team Details</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">Pagelist 2</a>
+                                    <ul>
+                                        <li><a href="appointment.html">Appointment</a></li>
+                                        <li><a href="service.html">Service</a></li>
+                                        <li><a href="service-details.html">Service Details</a></li>
+                                        <li><a href="blog.html">Blog</a></li>
+                                        <li><a href="blog-details.html">Blog Details</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">Pagelist 3</a>
+                                    <ul>
+                                        <li><a href="shop.html">Shop</a></li>
+                                        <li><a href="shop-details.html">Shop Details</a></li>
+                                        <li><a href="cart.html">Shopping Cart</a></li>
+                                        <li><a href="checkout.html">Checkout</a></li>
+                                        <li><a href="wishlist.html">Wishlist</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">Pagelist 4</a>
+                                    <ul>
+                                        <li><a href="pricing.html">Price</a></li>
+                                        <li><a href="faq.html">Faq</a></li>
+                                        <li><a href="project.html">Project</a></li>
+                                        <li><a href="project-details.html">Project Details</a></li>
+                                        <li><a href="contact.html">Contact Us</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <header class="as-header header-layout1">
+            <div class="header-top">
+                <div class="container">
+                    <div class="row justify-content-center justify-content-md-between align-items-center gy-2">
+                        <div class="col-auto">
+                            <div class="header-links">
+                                <ul>
+                                    <li class="d-none d-lg-inline-block">Welcome To Mechon Car Repair Company</li>
+                                    <li>Office Hours: Mon-Fri: 09:00AM-6:00PM</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-auto">
+                            <div class="header-social">
+                                <span class="social-title">Follow Us:</span> <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="menu-top">
+                <div class="container">
+                    <div class="row align-items-center justify-content-between gx-25">
+                        <div class="col-md-auto">
+                            <div class="logo-style1">
+                                <a href="index.html"><img src="assets/img/logo.png" alt="Mechon" /></a>
+                            </div>
+                        </div>
+                        <div class="col-sm">
+                            <div class="row align-items-center justify-content-center justify-content-md-end justify-content-lg-between">
+                                <div class="col-auto">
+                                    <div class="header-search">
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Search keywords..." /> <button type="submit"><i class="far fa-search"></i></button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-auto d-none d-xl-block">
+                                    <div class="header-info">
+                                        <div class="header-info_icon"><i class="fal fa-envelope-open-text"></i></div>
+                                        <div class="media-body">
+                                            <span class="header-info_label">Make An Email</span>
+                                            <div class="header-info_link"><a href="mailto:info@Mechon.com">info@Mechon.com</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-auto d-none d-lg-block">
+                                    <div class="header-info">
+                                        <div class="header-info_icon"><i class="fal fa-headset"></i></div>
+                                        <div class="media-body">
+                                            <span class="header-info_label">Call us 24/7</span>
+                                            <div class="header-info_link"><a href="tel:58924621452142">589 (246) 2145 2142</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sticky-wrapper">
+                <div class="sticky-active">
+                    <div class="menu-area">
+                        <div class="container">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-auto">
+                                    <nav class="main-menu menu-style1 d-none d-lg-block">
+                                        <ul>
+                                            <li class="menu-item-has-children">
+                                                <a href="index.html">Home</a>
+                                                <ul class="sub-menu">
+                                                    <li>
+                                                        <a href="index.html">Home One <span class="new-label">New</span></a>
+                                                    </li>
+                                                    <li><a href="index-2.html">Home Two</a></li>
+                                                    <li><a href="index-3.html">Home Three</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="about.html">About</a></li>
+                                            <li class="menu-item-has-children">
+                                                <a href="#">Service</a>
+                                                <ul class="sub-menu">
+                                                    <li><a href="service.html">Service</a></li>
+                                                    <li><a href="service-details.html">Service Details</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="menu-item-has-children">
+                                                <a href="#">Blog</a>
+                                                <ul class="sub-menu">
+                                                    <li><a href="blog.html">Blog</a></li>
+                                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="menu-item-has-children mega-menu-wrap">
+                                                <a href="#">Pages</a>
+                                                <ul class="mega-menu">
+                                                    <li>
+                                                        <a href="shop.html">Pagelist 1</a>
+                                                        <ul>
+                                                            <li><a href="index.html">Home One</a></li>
+                                                            <li><a href="index-2.html">Home Two</a></li>
+                                                            <li><a href="index-3.html">Home Three</a></li>
+                                                            <li><a href="about.html">About Us</a></li>
+                                                            <li><a href="team.html">Team</a></li>
+                                                            <li><a href="team-details.html">Team Details</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">Pagelist 2</a>
+                                                        <ul>
+                                                            <li><a href="appointment.html">Appointment</a></li>
+                                                            <li><a href="service.html">Service</a></li>
+                                                            <li><a href="service-details.html">Service Details</a></li>
+                                                            <li><a href="blog.html">Blog</a></li>
+                                                            <li><a href="blog-details.html">Blog Details</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">Pagelist 3</a>
+                                                        <ul>
+                                                            <li><a href="shop.html">Shop</a></li>
+                                                            <li><a href="shop-details.html">Shop Details</a></li>
+                                                            <li><a href="cart.html">Shopping Cart</a></li>
+                                                            <li><a href="checkout.html">Checkout</a></li>
+                                                            <li><a href="wishlist.html">Wishlist</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">Pagelist 4</a>
+                                                        <ul>
+                                                            <li><a href="pricing.html">Price</a></li>
+                                                            <li><a href="faq.html">Faq</a></li>
+                                                            <li><a href="project.html">Project</a></li>
+                                                            <li><a href="project-details.html">Project Details</a></li>
+                                                            <li><a href="contact.html">Contact Us</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="contact.html">Contact</a></li>
+                                        </ul>
+                                    </nav>
+                                    <button class="as-menu-toggle d-inline-block d-lg-none"><i class="fal fa-bars"></i></button>
+                                </div>
+                                <div class="col-auto">
+                                    <a href="contact.html" class="header-link-btn"><i class="fal fa-map-marker-alt"></i>Office Location</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div id="QuickView" class="white-popup mfp-hide">
+            <div class="container bg-white">
+                <div class="row gx-60">
+                    <div class="col-lg-6">
+                        <div class="product-big-img">
+                            <div class="img"><img src="assets/img/product/product_details_1_1.jpg" alt="Product Image" /></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 align-self-center">
+                        <div class="product-about">
+                            <p class="price">$180.85<del>$350.99</del></p>
+                            <h2 class="product-title">Aero Rear Diffuser</h2>
+                            <div class="product-rating">
+                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                    <span style="width: 100%;">Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                </div>
+                                <a href="shop-details.html" class="woocommerce-review-link">(<span class="count">3</span> customer reviews)</a>
+                            </div>
+                            <p class="text">Syndicate customized growth strategies prospective human capital leverage other's optimal e-markets without transparent catalysts for change.</p>
+                            <div class="checklist style3">
+                                <ul>
+                                    <li>Lifetime structural, one year face finish warranty</li>
+                                    <li>Mapped from “Center Caps” under ” tment” tab</li>
+                                    <li>Fully copatible with OEM equimpent</li>
+                                </ul>
+                            </div>
+                            <div class="actions">
+                                <div class="quantity">
+                                    <input type="number" class="qty-input" step="1" min="1" max="100" name="quantity" value="1" title="Qty" /> <button class="quantity-plus qty-btn"><i class="far fa-chevron-up"></i></button>
+                                    <button class="quantity-minus qty-btn"><i class="far fa-chevron-down"></i></button>
+                                </div>
+                                <button class="as-btn">Add to Cart</button>
+                            </div>
+                            <div class="product_meta">
+                                <span class="sku_wrapper">SKU: <span class="sku">wheel-fits-chevy-camaro</span></span> <span class="posted_in">Category: <a href="shop.html" rel="tag">Tires & Wheels</a></span>
+                                <span>Tags: <a href="shop.html">automotive parts</a><a href="shop.html">wheels</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button title="Close (Esc)" type="button" class="mfp-close">×</button>
+            </div>
+        </div>
+        <div class="breadcumb-wrapper" data-bg-src="assets/img/breadcumb/breadcumb-bg.jpg">
+            <div class="container z-index-common">
+                <div class="breadcumb-content">
+                    <h1 class="breadcumb-title">Our Products</h1>
+                    <div class="breadcumb-menu-wrap">
+                        <ul class="breadcumb-menu">
+                            <li><a href="index.html">Home</a></li>
+                            <li>Our Products</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <section class="as-product-wrapper space-top space-extra-bottom">
+            <div class="container">
+                <div class="row flex-row-reverse">
+                    <div class="col-xl-9 col-lg-8">
+                        <div class="as-sort-bar">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-md"><p class="woocommerce-result-count">Showing 1–12 of 16 results</p></div>
+                                <div class="col-md-auto">
+                                    <form class="woocommerce-ordering" method="get">
+                                        <select name="orderby" class="orderby" aria-label="Shop order">
+                                            <option value="menu_order" selected="selected">Default Sorting</option>
+                                            <option value="popularity">Sort by popularity</option>
+                                            <option value="rating">Sort by average rating</option>
+                                            <option value="date">Sort by latest</option>
+                                            <option value="price">Sort by price: low to high</option>
+                                            <option value="price-desc">Sort by price: high to low</option>
+                                        </select>
+                                    </form>
+                                </div>
+                                <div class="col-md-auto">
+                                    <div class="nav" role="tablist">
+                                        <a href="#" class="active" id="tab-shop-grid" data-bs-toggle="tab" data-bs-target="#tab-grid" role="tab" aria-controls="tab-grid" aria-selected="true"><i class="fas fa-th"></i></a>
+                                        <a href="#" id="tab-shop-list" data-bs-toggle="tab" data-bs-target="#tab-list" role="tab" aria-controls="tab-grid" aria-selected="false"><i class="fas fa-list"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-content" id="nav-tabContent">
+                            <div class="tab-pane fade active show" id="tab-grid" role="tabpanel" aria-labelledby="tab-shop-grid">
+                                <div class="row gy-40">
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_1.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Wheel</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Car Engine Plug</a></h3>
+                                                <span class="price">$180.85<del>$350.99</del></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_2.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Filter</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Car Air Filter</a></h3>
+                                                <span class="price">$190.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_3.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Plug</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">CSK Red Wheel</a></h3>
+                                                <span class="price">$160.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_4.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Light</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Cools Led Light</a></h3>
+                                                <span class="price">$170.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_5.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Liver</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Allion Brake Pad</a></h3>
+                                                <span class="price">$120.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_6.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Break</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Car USB Ports</a></h3>
+                                                <span class="price">$100.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_7.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Wheel</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Car Engine Solt</a></h3>
+                                                <span class="price">$120.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_8.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Filter</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Car Oil Filter</a></h3>
+                                                <span class="price">$100.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_9.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Plug</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">BMW Brake Liver</a></h3>
+                                                <span class="price">$120.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_10.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Light</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Special Hydraulic</a></h3>
+                                                <span class="price">$100.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_11.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Liver</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Audi Wheel Combo</a></h3>
+                                                <span class="price">$120.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 col-sm-6">
+                                        <div class="as-product">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_12.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Break</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Fast Aloy Wheel</a></h3>
+                                                <span class="price">$100.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="tab-list" role="tabpanel" aria-labelledby="tab-shop-list">
+                                <div class="row gy-30">
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_1.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Wheel</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Car Engine Plug</a></h3>
+                                                <span class="price">$180.85<del>$350.99</del></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_2.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Filter</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Car Air Filter</a></h3>
+                                                <span class="price">$190.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_3.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Plug</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">CSK Red Wheel</a></h3>
+                                                <span class="price">$160.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_4.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Light</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Cools Led Light</a></h3>
+                                                <span class="price">$170.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_5.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Liver</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Allion Brake Pad</a></h3>
+                                                <span class="price">$120.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_6.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Break</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Car USB Ports</a></h3>
+                                                <span class="price">$100.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_7.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Wheel</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Car Engine Solt</a></h3>
+                                                <span class="price">$120.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_8.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Filter</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Car Oil Filter</a></h3>
+                                                <span class="price">$100.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_9.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Plug</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">BMW Brake Liver</a></h3>
+                                                <span class="price">$120.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_10.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Light</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Special Hydraulic</a></h3>
+                                                <span class="price">$100.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_11.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Liver</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Audi Wheel Combo</a></h3>
+                                                <span class="price">$120.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="as-product list-view">
+                                            <div class="product-img">
+                                                <img src="assets/img/product/product_1_12.jpg" alt="Product Image" />
+                                                <div class="actions">
+                                                    <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a> <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
+                                                    <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
+                                                </div>
+                                                <span class="category">Break</span>
+                                            </div>
+                                            <div class="product-content">
+                                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
+                                                </div>
+                                                <h3 class="product-title"><a href="shop-details.html">Fast Aloy Wheel</a></h3>
+                                                <span class="price">$100.85</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="as-pagination text-center pt-50">
+                            <ul>
+                                <li><a href="blog.html">1</a></li>
+                                <li><a href="blog.html">2</a></li>
+                                <li><a href="blog.html">3</a></li>
+                                <li>
+                                    <a href="blog.html"><i class="far fa-arrow-right"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4">
+                        <aside class="sidebar-area">
+                            <div class="widget widget_search">
+                                <form class="search-form">
+                                    <input type="text" placeholder="Search..." /> <button type="submit"><i class="far fa-search"></i></button>
+                                </form>
+                            </div>
+                            <div class="widget widget_categories">
+                                <h3 class="widget_title">Categories</h3>
+                                <ul>
+                                    <li><a href="blog.html">Car Repair</a></li>
+                                    <li><a href="blog.html">Engine Repair</a></li>
+                                    <li><a href="blog.html">Tyer Change</a></li>
+                                    <li><a href="blog.html">Oil Change</a></li>
+                                    <li><a href="blog.html">Battery Charge</a></li>
+                                </ul>
+                            </div>
+                            <div class="widget widget_price_filter">
+                                <h4 class="widget_title">Filter By Price</h4>
+                                <div class="price_slider_wrapper">
+                                    <div class="price_label">Price: <span class="from">$0</span> — <span class="to">$70</span></div>
+                                    <div class="price_slider"></div>
+                                    <button type="submit" class="button">Filter</button>
+                                </div>
+                            </div>
+                            <div class="widget widget_top_rated_products">
+                                <h4 class="widget_title">Popular Product</h4>
+                                <ul class="product_list_widget">
+                                    <li class="recent-post">
+                                        <div class="media-img">
+                                            <a href="shop-details.html"><img src="assets/img/product/thumb_1_1.jpg" alt="thumb" width="70" height="70" /></a>
+                                        </div>
+                                        <div class="media-body">
+                                            <h4 class="recent-post-title h5"><a href="shop-details.html">Cool Light</a></h4>
+                                            <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                <span>Rated <strong class="rating">5.00</strong> out of 5</span>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="recent-post">
+                                        <div class="media-img">
+                                            <a href="shop-details.html"><img src="assets/img/product/thumb_1_2.jpg" alt="thumb" width="70" height="70" /></a>
+                                        </div>
+                                        <div class="media-body">
+                                            <h4 class="recent-post-title h5"><a href="shop-details.html">Air Filter</a></h4>
+                                            <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                <span>Rated <strong class="rating">5.00</strong> out of 5</span>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="recent-post">
+                                        <div class="media-img">
+                                            <a href="shop-details.html"><img src="assets/img/product/thumb_1_3.jpg" alt="thumb" width="70" height="70" /></a>
+                                        </div>
+                                        <div class="media-body">
+                                            <h4 class="recent-post-title h5"><a href="shop-details.html">Brake Liver</a></h4>
+                                            <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                <span>Rated <strong class="rating">5.00</strong> out of 5</span>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="recent-post">
+                                        <div class="media-img">
+                                            <a href="shop-details.html"><img src="assets/img/product/thumb_1_4.jpg" alt="thumb" width="70" height="70" /></a>
+                                        </div>
+                                        <div class="media-body">
+                                            <h4 class="recent-post-title h5"><a href="shop-details.html">CSK Rim</a></h4>
+                                            <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                                <span>Rated <strong class="rating">5.00</strong> out of 5</span>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="widget widget_tag_cloud">
+                                <h3 class="widget_title">Popular Tags</h3>
+                                <div class="tagcloud">
+                                    <a href="blog.html">Technology</a> <a href="blog.html">Repair</a> <a href="blog.html">Services</a> <a href="blog.html">Mechon</a> <a href="blog.html">Engine</a> <a href="blog.html">Tires</a>
+                                    <a href="blog.html">Speed</a> <a href="blog.html">Solution</a> <a href="blog.html">Car Repair</a>
+                                </div>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="footer-wrapper footer-layout1">
+            <div class="widget-area">
+                <div class="container">
+                    <div class="row justify-content-between">
+                        <div class="col-md-6 col-xl-3">
+                            <div class="widget footer-widget">
+                                <h3 class="widget_title">About Company</h3>
+                                <div class="as-widget-about">
+                                    <p class="footer-text">Centric aplications productize before front end vortals visualize front end is results and value added</p>
+                                    <h4 class="footer-info-title">WE ARE AVAILABLE</h4>
+                                    <p class="footer-text">Mon-Sat: 09.00 am to 6.30 pm</p>
+                                    <a href="contact.html" class="as-btn style3">Contact Us</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-xl-auto">
+                            <div class="widget widget_nav_menu footer-widget">
+                                <h3 class="widget_title">Quick link</h3>
+                                <div class="menu-all-pages-container">
+                                    <ul class="menu">
+                                        <li><a href="about.html">About Company</a></li>
+                                        <li><a href="project.html">Work Gallery</a></li>
+                                        <li><a href="service.html">Client Feedback</a></li>
+                                        <li><a href="service.html">Our Services</a></li>
+                                        <li><a href="team.html">Our Team</a></li>
+                                        <li><a href="contact.html">Contact Us</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-xl-3">
+                            <div class="widget footer-widget">
+                                <h3 class="widget_title">Recent Posts</h3>
+                                <div class="recent-post-wrap">
+                                    <div class="recent-post">
+                                        <div class="media-img">
+                                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image" /></a>
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="recent-post-meta">
+                                                <a href="blog.html"><i class="fal fa-clock"></i>15th April, 2022</a>
+                                            </div>
+                                            <h4 class="post-title"><a class="text-inherit" href="blog-details.html">Here are things every car have</a></h4>
+                                        </div>
+                                    </div>
+                                    <div class="recent-post">
+                                        <div class="media-img">
+                                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image" /></a>
+                                        </div>
+                                        <div class="media-body">
+                                            <div class="recent-post-meta">
+                                                <a href="blog.html"><i class="fal fa-clock"></i>15th April, 2022</a>
+                                            </div>
+                                            <h4 class="post-title"><a class="text-inherit" href="blog-details.html">How to start car engine slowly</a></h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-xl-auto">
+                            <div class="widget footer-widget">
+                                <h3 class="widget_title">Contact Details</h3>
+                                <div class="as-widget-about">
+                                    <h4 class="footer-info-title">Phone Number</h4>
+                                    <p class="footer-info"><i class="fas fa-phone-alt"></i><a class="text-inherit" href="tel:+88123456987231">+88 12345 6987 231</a></p>
+                                    <h4 class="footer-info-title">Email Address</h4>
+                                    <p class="footer-info"><i class="fas fa-envelope"></i><a class="text-inherit" href="mailto:Mechon@email.com">Mechon@email.com</a></p>
+                                    <h4 class="footer-info-title">Office Location</h4>
+                                    <p class="footer-info"><i class="fas fa-map-marker-alt"></i>2561 Helano Street, NY</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright-wrap">
+                <div class="container">
+                    <div class="row justify-content-between align-items-center">
+                        <div class="col-lg-6 d-none d-lg-block">
+                            <a href="index.html"><img src="assets/img/logo-white.png" alt="Mechon" /></a>
+                        </div>
+                        <div class="col-lg-6 text-center text-lg-end">
+                            <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2022 <a class="text-white" href="https://themeforest.net/user/angfuz_soft">Angfuzsoft</a>. All Rights Reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-shape1"><img src="assets/img/shape/footer_shape_1.png" alt="shape" /></div>
+            <div class="footer-shape2"><img src="assets/img/shape/footer_shape_2.png" alt="shape" /></div>
+        </footer>
+        <a href="#" class="scrollToTop scroll-btn"><i class="far fa-arrow-up"></i></a>
+        <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
+        <script src="assets/js/app.min.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+
+</html>
+

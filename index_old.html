@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <title>Motahda For trading</title>
+        <meta name="author" content="Erasoft" />
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="robots" content="" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="manifest" href="images/favicon.png" />
+        <meta name="msapplication-TileColor" content="#ffffff" />
+        <meta name="msapplication-TileImage" content="images/favicon.pn" />
+        <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+        <link rel="icon" href="images/favicon.png" type="image/x-icon" />
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="stylesheet" href="css/app.min.css" />
+        <link rel="stylesheet" href="css/all.min.css" />
+        <link rel="stylesheet" href="css/owl.carousel.min.css" />
+        <link rel="stylesheet" href="css/style.css" />
+    </head>
+
+    <body>
+        <div class="popup-search-box d-none d-lg-block">
+            <button class="searchClose"><i class="fal fa-times"></i></button>
+            <form action="#">
+                <input type="text" placeholder="What are you looking for" /> <button type="submit"><i class="fal fa-search"></i></button>
+            </form>
+        </div>
+
+        <div class="as-menu-wrapper">
+            <div class="as-menu-area text-center">
+                <button class="as-menu-toggle"><i class="fal fa-times"></i></button>
+                <div class="mobile-logo">
+                    <a href="index.html"><img src="images/logo.png" alt="Mechon" /></a>
+                </div>
+                <div class="as-mobile-menu">
+                    <ul>
+                        <li><a href="<?= $core->getPageUrl("index" . $plang) ?>" title=""><?= getTitle("index" . $plang) ?></a></li>
+                        <li><a href="<?= $core->getPageUrl("about" . $plang) ?>" title=""><?= getTitle("about" . $plang) ?></a></li>
+                                            <li><a href="<?= $core->getPageUrl("projects" . $plang) ?>" title=""><?= getTitle("projects" . $plang) ?></a></li>
+                        <li class="menu-item-has-children">
+                            <a href="<?= $core->getPageUrl("products" . $plang) ?></a>" title=""><?= getTitle("products" . $plang) ?></a>
+                            <ul class="sub-menu">
+                                <li><a href="#" title="">vertical showcase</a></li>
+
+                                <li><a href="#" title="">cake showcase</a></li>
+
+                                <li><a href="#" title="">Freezer</a></li>
+
+                                <li><a href="#" title="">Counter Chiller</a></li>
+
+                                <li><a href="#" title="">cheese showcase</a></li>
+
+                                <li><a href="#" title="">Meat Showcase</a></li>
+
+                                <li><a href="#" title="">Pepsi &amp; Cola Refrigerators</a></li>
+
+                                <li><a href="#" title="">Multideck Showcase</a></li>
+
+                                <li><a href="#" title="">Water Coolers</a></li>
+
+                                <li><a href="#" title="">Ice Refrigerator</a></li>
+
+                                <li><a href="#" title="">Freezer AHT used</a></li>
+
+                                <li><a href="#" title="">Display Refrigerators</a></li>
+
+                                <li><a href="#" title="">Supermarket supplies</a></li>
+
+                                <li><a href="#" title="">Cheese refrigerators</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="<?= $core->getPageUrl("order" . $plang) ?>" title=""><?= getTitle("order" . $plang) ?></a></li>
+                        <li class="menu-item-has-children">
+                            <a href="#" title=""><?= plang("مركز الوسائط", "Media Center") ?></a>
+                            <ul class="sub-menu">
+                                <li><a href="<?= $core->getPageUrl("gallery" . $plang) ?>" title=""><?= getTitle("gallery" . $plang) ?></a></li>
+                                <li><a href="<?= $core->getPageUrl("video" . $plang) ?>" title=""><?= getTitle("video" . $plang) ?></a></li>
+                        <li><a href="<?= $core->getPageUrl("news" . $plang) ?>" title=""><?= getTitle("news" . $plang) ?></a></li>
+                            </ul>
+                        </li>
+
+
+                        <li><a href="<?= $core->getPageUrl("contact" . $plang) ?>" title=""><?= getTitle("contact" . $plang) ?></a></li>
+                        <li><a href="#" title="">Arabic</a></li>
+                    </ul>
+                </div>
+
+<div class="sidebar__social">
+                        <ul>
+                            <li>
+                                <a href=""><i class="fab fa-facebook-f"></i></a>
+                            </li>
+                            <li>
+                                <a href=""><i class="fab fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href=""><i class="fab fa-youtube"></i></a>
+                            </li>
+                            <li>
+                                <a href=""><i class="fab fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+
+
+            </div>
+        </div>
+        <header class="as-header header-layout3">
+            <div class="header-top-area">
+                <div class="header-top">
+                    <div class="container">
+                        <div class="row justify-content-center justify-content-md-between align-items-center">
+                            <div class="col-auto">
+                                <p class="header-notice d-none d-lg-block">Welcome To Motahda For trading Company</p>
+                            </div>
+                            <div class="col-auto">
+                                <div class="header-social">
+                                    <span class="social-title">Follow Us</span>
+
+                                    <div class="top-left">
+                                        <ul class="social-links clearfix">
+                                            <li>
+                                                <a href="#" title="">
+                                                    <div class="main-ico"><span class="fab fa-facebook-f"></span></div>
+                                                    <div class="hover-ico"><span class="facebook fab fa-facebook-f"></span></div>
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="#" title="">
+                                                    <div class="main-ico"><span class="fab fa-twitter"></span></div>
+                                                    <div class="hover-ico"><span class="twitter fab fa-twitter"></span></div>
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="#" title="">
+                                                    <div class="main-ico"><span class="fab fa-linkedin-in"></span></div>
+                                                    <div class="hover-ico"><span class="linkedin fab fa-linkedin-in"></span></div>
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="#" title="">
+                                                    <div class="main-ico"><span class="fab fa-instagram"></span></div>
+                                                    <div class="hover-ico"><span class="instagram fab fa-instagram"></span></div>
+                                                </a>
+                                            </li>
+
+                                            <li>
+                                                <a href="#" title="">
+                                                    <div class="main-ico"><span class="fab fa-youtube"></span></div>
+                                                    <div class="hover-ico"><span class="youtube fab fa-youtube"></span></div>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="menu-top">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-auto">
+                                <div class="logo-style2">
+                                    <a href="index.html"><img src="images/logo.png" alt="Mechon" /></a>
+                                </div>
+                            </div>
+                            <div class="col">
+                                        <div class="header-button">
+
+
+<div class="ft-content">
+                                        <i class="fal fa-headset"></i>
+                                        <span>Talk To Our Support</span>
+                                        <a href="tel:<?=getValue('header_phone')?>" class=""><?=getValue('header_phone')?></a>
+                                    </div>
+
+
+
+<div class="ft-content">
+                                        <i class="fal fa-envelope-open-text"></i>
+                                        <span>Make An Email</span>
+                                        <a href="mailto:<?=getValue('email')?>" class=""><?=getValue('email')?></a>
+                                    </div>
+
+
+
+                                            <button class="as-menu-toggle d-inline-block d-lg-none"><i class="fal fa-bars"></i></button>
+                                        </div>
+                                    </div>
+ 
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sticky-wrapper">
+                <div class="sticky-active">
+                    <div class="menu-area">
+                        <div class="container">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-auto">
+                                    <nav class="main-menu menu-style1 d-none d-lg-block">
+                                        <ul>
+                                            <li><a href="<?= $core->getPageUrl("index" . $plang) ?>" title=""><?= getTitle("index" . $plang) ?></a></li>
+                                            <li><a href="<?= $core->getPageUrl("about" . $plang) ?>" title=""><?= getTitle("about" . $plang) ?></a></li>
+                                            <li><a href="<?= $core->getPageUrl("projects" . $plang) ?>" title=""><?= getTitle("projects" . $plang) ?></a></li>
+                                            <li class="menu-item-has-children">
+                                                <a href="<?= $core->getPageUrl("products" . $plang) ?>" title=""><?= getTitle("products" . $plang) ?></a>
+                                                <ul class="sub-menu">
+                                                    <li><a href="#" title="">vertical showcase</a></li>
+
+                                                    <li><a href="#" title="">cake showcase</a></li>
+
+                                                    <li><a href="#" title="">Freezer</a></li>
+
+                                                    <li><a href="#" title="">Counter Chiller</a></li>
+
+                                                    <li><a href="#" title="">cheese showcase</a></li>
+
+                                                    <li><a href="#" title="">Meat Showcase</a></li>
+
+                                                    <li><a href="#" title="">Pepsi &amp; Cola Refrigerators</a></li>
+
+                                                    <li><a href="#" title="">Multideck Showcase</a></li>
+
+                                                    <li><a href="#" title="">Water Coolers</a></li>
+
+                                                    <li><a href="#" title="">Ice Refrigerator</a></li>
+
+                                                    <li><a href="#" title="">Freezer AHT used</a></li>
+
+                                                    <li><a href="#" title="">Display Refrigerators</a></li>
+
+                                                    <li><a href="#" title="">Supermarket supplies</a></li>
+
+                                                    <li><a href="#" title="">Cheese refrigerators</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="<?= $core->getPageUrl("order" . $plang) ?>" title=""><?= getTitle("order" . $plang) ?></a></li>
+                                            <li class="menu-item-has-children">
+                                                <a href="#" title=""><?= plang("مركز الوسائط", "Media Center") ?></a>
+                                                <ul class="sub-menu">
+                                                    <li><a href="<?= $core->getPageUrl("gallery" . $plang) ?>" title=""><?= getTitle("gallery" . $plang) ?></a></li>
+                                                    <li><a href="<?= $core->getPageUrl("video" . $plang) ?>" title=""><?= getTitle("video" . $plang) ?></a></li>
+                        <li><a href="<?= $core->getPageUrl("news" . $plang) ?>" title=""><?= getTitle("news" . $plang) ?></a></li>
+                                                </ul>
+                                            </li>
+
+                                            <li><a href="<?= $core->getPageUrl("contact" . $plang) ?>" title=""><?= getTitle("contact" . $plang) ?></a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <div class="col-auto">
+                                    <div class="d-flex align-items-center sawe">                                            <button type="button" class="icon-btn searchBoxToggler"><i class="fal fa-search"></i></button>
+                                        <a href="" class="header-link-btn"><i class="fal fa-globe"></i>Arabic</a>
+                                    </div>
+
+
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Section Two -->
+        <section class="main-slider-two">
+            <div class="main-slider-carousel owl-carousel owl-theme">
+                <div class="slide">
+                    <img src="images/slider1.jpg" />
+                    <div class="container">
+                        <!-- Content Boxed -->
+                        <div class="content-boxed">
+                            <div class="inner-box">
+                                <h1>Motahda For trading</h1>
+                                <div class="text">Motahda for trading acts as a specialized
+company in the field of design, supply and
+installation of MEP systems</div>
+
+                                <div class="btns-box">
+                                    <a href="" class="as-btn">
+                                        <span class="txt">Read More <i class="lnr lnr-arrow-right"></i></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="slide">
+                    <img src="images/slider2.jpg" />
+                    <div class="container">
+                        <!-- Content Boxed -->
+                        <div class="content-boxed">
+                            <div class="inner-box">
+                                <h1>Motahda For trading</h1>
+                                <div class="text">Motahda for trading acts as a specialized
+company in the field of design, supply and
+installation of MEP systems</div>
+
+                                <div class="btns-box">
+                                    <a href="" class="as-btn">
+                                        <span class="txt">Read More <i class="lnr lnr-arrow-right"></i></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="slide">
+                    <img src="images/slider03.jpg" />
+                    <div class="container">
+                        <!-- Content Boxed -->
+                        <div class="content-boxed">
+                            <div class="inner-box">
+                                <h1>Motahda For trading</h1>
+                                <div class="text">Motahda for trading acts as a specialized
+company in the field of design, supply and
+installation of MEP systems</div>
+
+                                <div class="btns-box">
+                                    <a href="" class="as-btn">
+                                        <span class="txt">Read More <i class="lnr lnr-arrow-right"></i></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="slide">
+                    <img src="images/slider4.jpg" />
+                    <div class="container">
+                        <!-- Content Boxed -->
+                        <div class="content-boxed">
+                            <div class="inner-box">
+                                <h1>Motahda For trading</h1>
+                                <div class="text">Motahda for trading acts as a specialized
+company in the field of design, supply and
+installation of MEP systems</div>
+
+                                <div class="btns-box">
+                                    <a href="" class="as-btn">
+                                        <span class="txt">Read More <i class="lnr lnr-arrow-right"></i></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="slide">
+                    <img src="images/slider5.jpg" />
+                    <div class="container">
+                        <!-- Content Boxed -->
+                        <div class="content-boxed">
+                            <div class="inner-box">
+                                <h1>Motahda For trading</h1>
+                                <div class="text">Motahda for trading acts as a specialized
+company in the field of design, supply and
+installation of MEP systems</div>
+                                <div class="btns-box">
+                                    <a href="" class="as-btn">
+                                        <span class="txt">Read More <i class="lnr lnr-arrow-right"></i></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+  <div class="bubble-dotted">
+      <span class="dotted dotted-1"></span>
+      <span class="dotted dotted-2"></span>
+      <span class="dotted dotted-3"></span>
+      <span class="dotted dotted-4"></span>
+      <span class="dotted dotted-5"></span>
+      <span class="dotted dotted-6"></span>
+      <span class="dotted dotted-7"></span>
+      <span class="dotted dotted-8"></span>
+      <span class="dotted dotted-9"></span>
+      <span class="dotted dotted-10"></span>
+   </div>
+        </section>
+        <!-- End Main Section -->
+
+        <div class="sec-about position-relative overflow-hidden">
+            <div class="container">
+                <div class="row flex-row-reverse">
+                    <div class="col-xl-6">
+                        <div class="img-box-3">
+                            <div class="img2">
+
+                                <img class="custom-im" src="images/about2.png" alt="About" />
+
+                                <div class="experience-box">
+                                    <div class="our-experience-years">
+                                        <div class="year-outline">
+                                            <h2>19</h2>
+                                        </div>
+                                        <p>Years <span>Experience</span></p>
+                                    </div>
+
+                                    <div class="right">
+                                        <span class="icon-icon-6"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6">
+                        <div class="title-area">
+                            <span class="sub-title">About Company</span>
+                            <h2 class="sec-title">Motahda For trading</h2>
+                        </div>
+
+                        <div class="text">
+                            <p>
+Motahda has been established in 2003. Our Main office located in Cairo, Egypt.
+Motahda for trading acts as a specialized
+company in the field of design, supply and
+installation of MEP systems. We do implementation process held according
+to NFPA, European and Egyptian standards.
+                            </p>
+
+
+<ul>
+     <li>Study, design, supply, installation and after-sales service</li>
+     <li>Works of fire extinguishing nets and pump rooms</li>
+     <li>Central AC, sheet and insulation works</li>
+     <li>Doing all kinds of supplies related to the activity</li>
+</ul>
+
+
+<a href="" class="as-btn">Read More</a>
+
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+    <section class="sc_services_extra">
+        <div class="auto-container">
+
+                <div class="sec-title">
+                    <h2>Our Services</h2>
+                </div>
+
+
+        <div class="owl-carousel slider-dse custom-nav">
+
+<div class="ire">
+    <div class="sc_services_item with_more with_image">
+        <div class="sitem_content" style="background-image: url(images/<?= $products[$i]["image"] ?>);">
+            <div class="sitem-coinner">
+                <div class="sitem-con-top"><span class="sitem_number">01</span></div>
+                <div class="sitem-con-bottom">
+                    <h6 class="sitem_title"><a href="">Fire Alarm Systems</a></h6>
+                    <div class="sitem_text"><p>Motahda For trading</p></div>
+                    <div class="sitem_button sc_item_button">
+                        <a href="" class="sitem_more_link"> <span class="link_text">Read More</span><span class="link_icon"></span> </a>
+                    </div>
+                </div>
+            </div>
+            <a class="sitem_link" href=""></a>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="ire">
+    <div class="sc_services_item with_more with_image">
+        <div class="sitem_content" style="background-image: url(images/s02.jpg);">
+            <div class="sitem-coinner">
+                <div class="sitem-con-top"><span class="sitem_number">02</span></div>
+                <div class="sitem-con-bottom">
+                    <h6 class="sitem_title"><a href="">HVAC Systems</a></h6>
+                    <div class="sitem_text"><p>Motahda For trading</p></div>
+                    <div class="sitem_button sc_item_button">
+                        <a href="" class="sitem_more_link"> <span class="link_text">Read More</span><span class="link_icon"></span> </a>
+                    </div>
+                </div>
+            </div>
+            <a class="sitem_link" href=""></a>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="ire">
+    <div class="sc_services_item with_more with_image">
+        <div class="sitem_content" style="background-image: url(images/s03.jpg);">
+            <div class="sitem-coinner">
+                <div class="sitem-con-top"><span class="sitem_number">03</span></div>
+                <div class="sitem-con-bottom">
+                    <h6 class="sitem_title"><a href="">Plumbing Systems</a></h6>
+                    <div class="sitem_text"><p>Motahda For trading</p></div>
+                    <div class="sitem_button sc_item_button">
+                        <a href="" class="sitem_more_link"> <span class="link_text">Read More</span><span class="link_icon"></span> </a>
+                    </div>
+                </div>
+            </div>
+            <a class="sitem_link" href=""></a>
+        </div>
+    </div>
+</div>
+
+
+<div class="ire">
+    <div class="sc_services_item with_more with_image">
+        <div class="sitem_content" style="background-image: url(images/s04.jpg);">
+            <div class="sitem-coinner">
+                <div class="sitem-con-top"><span class="sitem_number">04</span></div>
+                <div class="sitem-con-bottom">
+                    <h6 class="sitem_title"><a href="">Electrical Systems</a></h6>
+                    <div class="sitem_text"><p>Motahda For trading</p></div>
+                    <div class="sitem_button sc_item_button">
+                        <a href="" class="sitem_more_link"> <span class="link_text">Read More</span><span class="link_icon"></span> </a>
+                    </div>
+                </div>
+            </div>
+            <a class="sitem_link" href=""></a>
+        </div>
+    </div>
+</div>
+
+
+</div>
+
+
+</div>
+    </section>
+
+
+        <section class="bg-smoke prod-section">
+            <div class="container">
+
+
+                <div class="sec-title">
+                    <h2>Products</h2>
+                </div>
+
+            <div class="owl-carousel prod-carousel custom-nav">
+
+
+                    <div class="cs-box">
+                        <div class="service-box">
+                            <div class="service-box_img"><img src="images/p1.jpg" alt="service image" /></div>
+                            <div class="service-box_icon"><span class="fal fa-fire"></div>
+                            <div class="service-box_content">
+                                <span class="service-box_number">01</span>
+                                <h3 class="service-box_title"><a href="">Ring Alarm</a></h3>
+                                <a href="" class="service-box_btn">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-box">
+                        <div class="service-box">
+                            <div class="service-box_img"><img src="images/p2.jpg" alt="service image" /></div>
+                            <div class="service-box_icon"><span class="fal fa-fire"></div>
+                            <div class="service-box_content">
+                                <span class="service-box_number">02</span>
+                                <h3 class="service-box_title"><a href="">Water Flow Detector</a></h3>
+                                <a href="" class="service-box_btn">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-box">
+                        <div class="service-box">
+                            <div class="service-box_img"><img src="images/p3.jpg" alt="service image" /></div>
+                            <div class="service-box_icon"><span class="fal fa-fire"></div>
+                            <div class="service-box_content">
+                                <span class="service-box_number">03</span>
+                                <h3 class="service-box_title"><a href="">HVAC Products</a></h3>
+                                <a href="" class="service-box_btn">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="cs-box">
+                        <div class="service-box">
+                            <div class="service-box_img"><img src="images/p4.jpg" alt="service image" /></div>
+                            <div class="service-box_icon"><span class="fal fa-fire"></div>
+                            <div class="service-box_content">
+                                <span class="service-box_number">04</span>
+                                <h3 class="service-box_title"><a href="">Aprilaire Dehumidifier</a></h3>
+                                <a href="" class="service-box_btn">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            
+                        </div>
+                    </div>
+
+
+
+                    <div class="cs-box">
+                        <div class="service-box">
+                            <div class="service-box_img"><img src="images/p5.jpg" alt="service image" /></div>
+                            <div class="service-box_icon"><span class="fal fa-fire"></div>
+                            <div class="service-box_content">
+                                <span class="service-box_number">05</span>
+                                <h3 class="service-box_title"><a href="">swimming pool motor</a></h3>
+                                <a href="" class="service-box_btn">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            
+                        </div>
+                    </div>
+
+
+
+                    <div class="cs-box">
+                        <div class="service-box">
+                            <div class="service-box_img"><img src="images/p9.jpg" alt="service image" /></div>
+                            <div class="service-box_icon"><span class="fal fa-fire"></div>
+                            <div class="service-box_content">
+                                <span class="service-box_number">06</span>
+                                <h3 class="service-box_title"><a href="">XtremepowerUS 2HP</a></h3>
+                                <a href="" class="service-box_btn">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            
+                        </div>
+                    </div>
+
+
+
+                    <div class="cs-box">
+                        <div class="service-box">
+                            <div class="service-box_img"><img src="images/p7.jpg" alt="service image" /></div>
+                            <div class="service-box_icon"><span class="fal fa-fire"></div>
+                            <div class="service-box_content">
+                                <span class="service-box_number">07</span>
+                                <h3 class="service-box_title"><a href="">Fire Alarm system</a></h3>
+                                <a href="" class="service-box_btn">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            
+                        </div>
+                    </div>
+
+
+
+                    <div class="cs-box">
+                        <div class="service-box">
+                            <div class="service-box_img"><img src="images/p8.jpg" alt="service image" /></div>
+                            <div class="service-box_icon"><span class="fal fa-fire"></div>
+                            <div class="service-box_content">
+                                <span class="service-box_number">08</span>
+                                <h3 class="service-box_title"><a href="">Plumbing products</a></h3>
+                                <a href="" class="service-box_btn">View Details <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                            
+                        </div>
+                    </div>
+
+
+
+
+
+                </div>
+            </div>
+        </section>
+
+
+        <div class="bg-title position-relative overflow-hidden">
+            <div class="row">
+                <div class="col-xl-6">
+                    <div class="as-video style1">
+                        <img src="images/image-1.jpg" alt="Video Image" /> <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn popup-video"><i class="fal fa-play"></i></a>
+                    </div>
+                </div>
+                <div class="col-xl-6">
+                    <div class="feature-media-wrap">
+                        <div class="ma-feat title-area text-center">
+                            <span class="sub-title">Motahda For trading</span>
+                            <h2 class="sec-title text-white">Why Choose Us?</h2>
+                        </div>
+
+
+
+<div class="skill-content">
+
+                        <div class="row no-gutters">
+                            <div class="col-lg-6 col-md-6 col-6">
+                                <div class="single-counter-box one">
+                                    <div class="fact-icon">
+<img src="images/icon/counter_2_2.svg" alt="icon" />
+                                    </div>
+                                    <p class="counter-number count">1037</p>
+                                    <h6>Satisfied <br> customers</h6>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-6">
+                                <div class="single-counter-box two">
+                                    <div class="fact-icon">
+<img src="images/icon/counter_2_1.svg" alt="icon" />
+                                    </div>
+                                    <p class="counter-number count">25</p>
+                                    <h6>Years of <br> experience</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row no-gutters">
+                            <div class="col-lg-6 col-md-6 col-6">
+                                <div class="single-counter-box three">
+                                    <div class="fact-icon">
+<img src="images/icon/feature_2_5.svg" alt="icon" />
+                                    </div>
+                                    <p class="counter-number count">750</p>
+                                    <h6>Complete <br> projects</h6>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-6">
+                                <div class="single-counter-box four">
+                                    <div class="fact-icon">
+<img src="images/icon/quality-feature_12.png" alt="icon" />
+                                    </div>
+                                    <p class="counter-number count">06</p>
+                                    <h6>Quality <br> Certificates</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="body-shape4"><img src="images/bg-map.png" alt="shape" /></div>
+        </div>
+
+
+
+<!--
+
+    <section class="space">
+        <div class="container">
+            <div class="title-area text-center"><span class="sub-title">OUR WORK PROCESS</span>
+                <h2 class="sec-title">How We Works</h2>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-lg-3 process-box-wrap">
+                    <div class="process-box">
+                        <div class="process-box_icon"><img src="images/icon/process_1_1.svg" alt="service image"></div>
+                        <h3 class="process-box_title">Identify Issues</h3>
+                        <p class="process-box_text">Extensible for web iterate process before meta services impact with olisticly enable client.</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 process-box-wrap">
+                    <div class="process-box">
+                        <div class="process-box_icon"><img src="images/icon/process_1_2.svg" alt="service image"></div>
+                        <h3 class="process-box_title">Prepare Solution</h3>
+                        <p class="process-box_text">Vulnerable for web iterate process before meta services impact with olisticly enable geting.</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 process-box-wrap">
+                    <div class="process-box">
+                        <div class="process-box_icon"><img src="images/icon/process_1_3.svg" alt="service image"></div>
+                        <h3 class="process-box_title">Working On This</h3>
+                        <p class="process-box_text">Of setting for web iterate process before meta services impact with olisticly enable power.</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 process-box-wrap">
+                    <div class="process-box">
+                        <div class="process-box_icon"><img src="images/icon/process_1_4.svg" alt="service image"></div>
+                        <h3 class="process-box_title">Deliver On Hand</h3>
+                        <p class="process-box_text">Getting on for web iterate process before meta services impact with olisticly enable silent.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+-->
+
+
+
+
+        <section class="space bg-smoke blog-sec">
+            <div class="container">
+                <div class="sec-title">
+                    <h2>Latest News</h2>
+                </div>
+
+                <div class="owl-carousel blog-carousel custom-nav">
+
+                    <div class="divx">
+                        <div class="blog-card">
+                            <div class="blog-img"><img src="images/news3.jpg" alt="blog image" /></div>
+                            <div class="blog-content">
+                                <div class="blog-meta">
+                                    <a href=""><i class="fal fa-calendar-alt"></i>Jan 15, 2022</a>
+                                </div>
+                                <h3 class="blog-title"><a href="">All materials used are imported.</a></h3>
+                                <a href="" class="link-btn">Read More<i class="fal fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="divx">
+                        <div class="blog-card">
+                            <div class="blog-img"><img src="images/news2.jpg" alt="blog image" /></div>
+                            <div class="blog-content">
+                                <div class="blog-meta">
+                                    <a href=""><i class="fal fa-calendar-alt"></i>March 16, 2022</a> 
+                                </div>
+                                <h3 class="blog-title"><a href="">
+Highest quality with affordable price
+</a></h3>
+                                <a href="" class="link-btn">Read More<i class="fal fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="divx">
+                        <div class="blog-card">
+                            <div class="blog-img"><img src="images/news.png" alt="blog image" /></div>
+                            <div class="blog-content">
+                                <div class="blog-meta">
+                                    <a href=""><i class="fal fa-calendar-alt"></i>May 17, 2022</a>
+                                </div>
+                                <h3 class="blog-title"><a href="">
+1 year warranty on all spare parts.
+</a></h3>
+                                <a href="" class="link-btn">Read More<i class="fal fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- Start Partner Area -->
+        <div class="partner-area">
+            <div class="sec-title">
+                <h2>Our partners</h2>
+            </div>
+
+            <div class="container">
+                <div class="partner-slides owl-carousel owl-theme custom-nav">
+
+
+                    <div class="image-box">
+                        <img src="images/e2.png" alt="image" />
+                    </div>
+
+                    <div class="image-box">
+                        <img src="images/e3.png" alt="image" />
+                    </div>
+                    <div class="image-box">
+                        <img src="images/c3.png" alt="image" />
+                    </div>
+
+                    <div class="image-box">
+                        <img src="images/c1.png" alt="image" />
+                    </div>
+
+                    <div class="image-box">
+                        <img src="images/c2.png" alt="image" />
+                    </div>
+
+                    <div class="image-box">
+                        <img src="images/e6.png" alt="image" />
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <!-- End Partner Area -->
+        <footer class="footer-wrapper footer-layout2" data-bg-src="images/bck.jpg">
+            <div class="widget-area">
+                <div class="container">
+                    <div class="row justify-content-between">
+                        <div class="col-md-4 col-xs-12">
+                            <div class="widget footer-widget">
+                                <h3 class="widget_title">About Company</h3>
+                                <div class="as-widget-about">
+                                    <p class="footer-text">Motahda for trading acts as a specialized
+company in the field of design, supply and
+installation of MEP systems</p>
+
+
+
+<div class="ft-content">
+                                        <i class="fal fa-headset"></i>
+                                        <span>Talk To Our Support</span>
+                                        <a href="tel:<?=getValue('header_phone')?>" class=""><?=getValue('header_phone')?></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="widget widget_nav_menu footer-widget">
+                                <h3 class="widget_title">Quick link</h3>
+                                <div class="menu-all-pages-container quick">
+<ul>
+                                            <li><a href="<?= $core->getPageUrl("index" . $plang) ?>" title=""><?= getTitle("index" . $plang) ?></a></li>
+                                            <li><a href="<?= $core->getPageUrl("about" . $plang) ?>" title=""><?= getTitle("about" . $plang) ?></a></li>
+                                            <li><a href="<?= $core->getPageUrl("projects" . $plang) ?>" title=""><?= getTitle("projects" . $plang) ?></a></li>
+                                            <li><a href="<?= $core->getPageUrl("products" . $plang) ?>" title=""><?= getTitle("products" . $plang) ?></a></li>
+
+
+
+                                                    <li><a href="<?= $core->getPageUrl("gallery" . $plang) ?>" title=""><?= getTitle("gallery" . $plang) ?></a></li>
+                                                    <li><a href="<?= $core->getPageUrl("video" . $plang) ?>" title=""><?= getTitle("video" . $plang) ?></a></li>
+                     
+                                            <li><a href="<?= $core->getPageUrl("order" . $plang) ?>" title=""><?= getTitle("order" . $plang) ?></a></li>
+                        <li><a href="<?= $core->getPageUrl("news" . $plang) ?>" title=""><?= getTitle("news" . $plang) ?></a></li>
+
+                                            <li><a href="<?= $core->getPageUrl("contact" . $plang) ?>" title=""><?= getTitle("contact" . $plang) ?></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <div class="widget footer-widget">
+                                <h3 class="widget_title">Contact Details</h3>
+                                <div class="as-widget-about">
+
+                                    <h4 class="footer-info-title">Email Address</h4>
+                                    <p class="footer-info"><i class="fal fa-envelope-open-text"></i><a class="text-inherit" href="mailto:">info@motahda.com</a></p>
+                                    <h4 class="footer-info-title">Office Location</h4>
+                                    <p class="footer-info"><i class="fal fa-map-marker-check"></i>6211, The Middle Hill,
+Mokattam, New Cairo,
+Cairo, Egypt.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright-wrap">
+                <div class="container">
+                    <p class="copyright-text">Copyright @ 2022 <a class="text-white" href="">Erasoft</a>. All Rights Reserved.</p>
+                </div>
+            </div>
+        </footer>
+
+
+
+
+<div class="all-ioc">
+<div class="show-icons">
+<div class="ico-img"></div>
+<div class="sonar-wave"></div>    
+<div class="sonar-wave2"></div>
+</div>
+
+
+
+<div class="whats-icon" data-target="html">
+<a href="https://api.whatsapp.com/send?phone=++201222272212"><span class="icon fab fa-whatsapp"></span>
+</a>
+</div>
+
+
+
+<div class="messenger-icon" data-target="html">
+<a href="https://m.me/242427262582693"><span class="icon fab fa-facebook-messenger"></span>
+</a>
+</div>
+
+
+<div class="phone-icon" data-target="html">
+<a href="tel:+201222272212"><span class="icon fal fa-phone"></span>
+</a>
+</div>
+
+
+
+</div>
+
+
+        <a href="#" class="scrollToTop scroll-btn"><i class="far fa-arrow-up"></i></a>
+        <script src="js/vendor/jquery-3.6.0.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/app.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>
+
